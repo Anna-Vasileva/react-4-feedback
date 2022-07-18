@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-4-feedback/static/css/main.da125b11.css",
+    "main.js": "/react-4-feedback/static/js/main.41dc94db.js",
+    "index.html": "/react-4-feedback/index.html",
+    "main.da125b11.css.map": "/react-4-feedback/static/css/main.da125b11.css.map",
+    "main.41dc94db.js.map": "/react-4-feedback/static/js/main.41dc94db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da125b11.css",
+    "static/js/main.41dc94db.js"
+  ]
+}
